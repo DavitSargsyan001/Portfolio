@@ -20,10 +20,10 @@ Brief description of the project and its significance.
 
 ## Skills
 
-- Programming Languages: Java, Python, JavaScript
-- Web Development: HTML, CSS, JavaScript, React
-- Databases: MySQL, MongoDB
-- Tools and Technologies: Git, Docker, AWS
+- Programming Languages: C++, VisualBasic, MIPS, Racket, 
+- Web Development: 
+- Databases:
+- Tools and Technologies: Git
 
 ## Experience
 
@@ -35,12 +35,13 @@ Quadranet | January 20XX - Present
 ## Education
 
 **Bachelor of Science in Computer Science**  
-California State University Northridge | Graduation Year
+California State University Northridge | 2024
 
 - Relevant coursework and academic achievements.
 
 ## Contact Me
 
 Let's connect and collaborate on exciting opportunities!  
-Email: your-email@example.com  
-LinkedIn: [Your LinkedIn Profile](link-to-linkedin-profile)
+Email: sargsyan_davit@protonmail.com    
+LinkedIn: www.linkedin.com/in/davit-sargsyan-080641239
+
