@@ -20,15 +20,15 @@ Brief description of the project and its significance.
 
 ## Skills
 
-- Programming Languages: C++, VisualBasic, MIPS, Racket, 
-- Web Development: 
-- Databases:
-- Tools and Technologies: Git
+- Programming Languages: C++, C, Kotlin, Java, VisualBasic, MIPS, Racket,
+- Web Development: HTML, CSS
+- Databases: MySQL, Firestore & Firebase databases
+- Tools and Technologies: Git, Linux, Visual Studio Code
 
 ## Experience
 
 **Data Center Engineer**  
-Quadranet | January 20XX - Present
+Quadranet | January 2021 - Present
 
 - Description of responsibilities and achievements.
 
